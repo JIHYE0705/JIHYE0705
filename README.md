@@ -1,8 +1,4 @@
-### Hi there 👋 <a href="https://www.instagram.com/jihyemyeong/">
-    <img 
-        src="http://img.shields.io/badge/-test-222222?style=flat&logo=Instagram&link=https://www.instagram.com/jihyemyeong/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+### Hi there 👋
 
 <!--
 **JIHYE0705/JIHYE0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
