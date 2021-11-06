@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="align : center;">
 🌱 I’m currently learning ...<br>
 
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -30,6 +31,6 @@ Here are some ideas to get you started:
 
 ![JIHYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIHYE0705&theme=nightowl&show_icons=true)
 
-
+</div>
 
 
