@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<div align="center">
 🌱 I’m currently learning ...<br>
 
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjh0705)](https://solved.ac/mjh0705)<br> -->
 
 ![JIHYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIHYE0705&theme=nightowl&show_icons=true)
-</p>
+</div>
 
 
 
