@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋, I'm JIHYE 👩🏻‍💻
 
 <!--
@@ -14,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-🌱 I’m currently learning ...<br>
+
+🌱 I’m currently learning ...<br><br>
 
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://www.python.org/community/logos/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
