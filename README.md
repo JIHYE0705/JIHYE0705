@@ -1,5 +1,5 @@
 
-<h2>Hi there 👋, I'm JIHYE 👩🏻‍💻</h2>
+<h1>Hi there 👋, I'm JIHYE 👩🏻‍💻</h1>
 
 <div align="center">
   
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h4>🌱 I’m currently learning ...</h4>
+  <h3>🌱 I’m currently learning ...</h3>
 
 <a href="https://www.oracle.com/legal/logos.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://www.python.org/community/logos/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
