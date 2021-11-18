@@ -1,6 +1,6 @@
 <div align="center">
-### Hi there 👋, I'm JIHYE 👩🏻‍💻
-
+  
+<h2>Hi there 👋, I'm JIHYE 👩🏻‍💻</h2>
 <!--
 **JIHYE0705/JIHYE0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
