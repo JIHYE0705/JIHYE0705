@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIHYE0705&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)<br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIHYE0705&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjh0705)](https://solved.ac/mjh0705)<br> -->
 
 ![JIHYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIHYE0705&theme=nightowl&show_icons=true)
