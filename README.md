@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/><br> -->
-
+<br><br>
   
   
 
