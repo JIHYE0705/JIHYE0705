@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발왕이 될테야 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 음악을 전공하고 백엔드 개발자로 살고있는 주니어 개발자입니다</li><li> 새로운 지식을 습득하는 것을 즐깁니다</li><li> 개발왕이 될때까지 끊임없이 노력합니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 음악을 전공하고 백엔드 개발자로 살고있는 개발자입니다</li><li> 새로운 지식을 습득하는 것을 즐깁니다</li><li> 개발왕이 될때까지 끊임없이 노력합니다 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
