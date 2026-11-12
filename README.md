@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=AB91CD&height=76&section=header)
+
 Jihye · Backend Developer
 
 # 사람이 원하는 것을, 시스템이 할 수 있는 일로.
