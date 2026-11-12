@@ -1,6 +1,4 @@
-![](assets/profile-banner.svg)
-
-# Jihye
+# ![Jihye · Backend Developer · Since 2022](assets/profile-banner.svg)
 
 **사람이 원하는 것을, 시스템이 할 수 있는 일로.**
 

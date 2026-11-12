@@ -1,18 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="160" viewBox="0 0 880 160">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="304" viewBox="0 0 880 304">
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
-      <stop stop-color="#181525"/>
-      <stop offset="1" stop-color="#29233E"/>
+    <linearGradient id="cover" x2="100%" y2="100%">
+      <stop stop-color="#151021"/>
+      <stop offset="1" stop-color="#2B1A3F"/>
+    </linearGradient>
+    <radialGradient id="light">
+      <stop stop-color="#9A6CE4" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#9A6CE4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" gradientUnits="userSpaceOnUse" x1="552" x2="826">
+      <stop stop-color="#C8AFFB"/>
+      <stop offset="1" stop-color="#FFC6AA"/>
     </linearGradient>
   </defs>
-  <rect width="880" height="160" rx="14" fill="url(#background)"/>
-  <g fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M64 80H224C273 80 295 49 344 49S415 80 464 80H816" stroke="#BBA4FA"/>
-    <path d="M64 80H224C273 80 295 111 344 111S415 80 464 80H816" stroke="#F4BCA2"/>
-    <path d="M64 80H224M464 80H816" stroke="#E1D7F7"/>
+  <rect width="880" height="304" rx="16" fill="url(#cover)"/>
+  <ellipse cx="686" cy="152" rx="190" ry="140" fill="url(#light)"/>
+  <rect x="18.5" y="18.5" width="843" height="267" rx="8" fill="none" stroke="#C8AFFB" stroke-opacity=".26"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="181" fill="#FFF3ED" font-size="128" font-weight="800" letter-spacing="-7">JIHYE</text>
+    <text x="64" y="228" fill="#DBC9F0" font-size="22" font-weight="700" letter-spacing="2">BACKEND DEVELOPER · SINCE 2022</text>
   </g>
-  <circle cx="64" cy="80" r="5" fill="#F4BCA2"/>
-  <circle cx="344" cy="49" r="5" fill="#BBA4FA"/>
-  <circle cx="344" cy="111" r="5" fill="#F4BCA2"/>
-  <circle cx="816" cy="80" r="5" fill="#BBA4FA"/>
+
+  <g fill="none" stroke="#CFB5F7" stroke-opacity=".24">
+    <circle cx="692" cy="148" r="84"/>
+    <circle cx="692" cy="148" r="68"/>
+    <circle cx="692" cy="148" r="52"/>
+  </g>
+  <g fill="none" stroke-width="3.5" stroke-linecap="round">
+    <path d="M552 148H605C644 148 658 107 692 107S741 148 779 148H826" stroke="#C8AFFB"/>
+    <path d="M552 148H605C644 148 658 189 692 189S741 148 779 148H826" stroke="#FFC6AA"/>
+    <path d="M552 148H605M779 148H826" stroke="url(#signal)"/>
+  </g>
+  <circle cx="552" cy="148" r="5" fill="#C8AFFB"/>
+  <circle cx="826" cy="148" r="5" fill="#FFC6AA"/>
 </svg>
