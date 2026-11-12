@@ -4,6 +4,6 @@ Jihye · Backend Developer
 
 음악을 전공했고, 2022년부터 백엔드를 개발해 왔습니다.
 
-![](assets/profile-banner.svg)
+![](assets/profile-signal.svg)
 
 [Velog](https://velog.io/@jihye) · [Email](mailto:jihyem75@gmail.com) · [Instagram](https://www.instagram.com/jihyemyeong/)
