@@ -1,37 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="304" viewBox="0 0 880 304">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="144" viewBox="0 0 880 144">
   <defs>
     <linearGradient id="cover" x2="100%" y2="100%">
       <stop stop-color="#151021"/>
       <stop offset="1" stop-color="#2B1A3F"/>
     </linearGradient>
     <radialGradient id="light">
-      <stop stop-color="#9A6CE4" stop-opacity=".28"/>
+      <stop stop-color="#9A6CE4" stop-opacity=".25"/>
       <stop offset="1" stop-color="#9A6CE4" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="signal" gradientUnits="userSpaceOnUse" x1="552" x2="826">
+    <linearGradient id="signal" gradientUnits="userSpaceOnUse" x1="64" x2="816">
       <stop stop-color="#C8AFFB"/>
       <stop offset="1" stop-color="#FFC6AA"/>
     </linearGradient>
   </defs>
-  <rect width="880" height="304" rx="16" fill="url(#cover)"/>
-  <ellipse cx="686" cy="152" rx="190" ry="140" fill="url(#light)"/>
-  <rect x="18.5" y="18.5" width="843" height="267" rx="8" fill="none" stroke="#C8AFFB" stroke-opacity=".26"/>
-
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="56" y="181" fill="#FFF3ED" font-size="128" font-weight="800" letter-spacing="-7">JIHYE</text>
-    <text x="64" y="228" fill="#DBC9F0" font-size="22" font-weight="700" letter-spacing="2">BACKEND DEVELOPER · SINCE 2022</text>
+  <rect width="880" height="144" rx="12" fill="url(#cover)"/>
+  <ellipse cx="440" cy="72" rx="180" ry="72" fill="url(#light)"/>
+  <g fill="none" stroke="#CFB5F7" stroke-opacity=".25">
+    <circle cx="440" cy="72" r="53"/>
+    <circle cx="440" cy="72" r="42"/>
+    <circle cx="440" cy="72" r="31"/>
   </g>
-
-  <g fill="none" stroke="#CFB5F7" stroke-opacity=".24">
-    <circle cx="692" cy="148" r="84"/>
-    <circle cx="692" cy="148" r="68"/>
-    <circle cx="692" cy="148" r="52"/>
+  <g fill="none" stroke-width="2.5" stroke-linecap="round">
+    <path d="M64 72H312M568 72H816" stroke="url(#signal)"/>
+    <path d="M312 72C367 72 398 42 440 42S513 72 568 72" stroke="#C8AFFB"/>
+    <path d="M312 72C367 72 398 102 440 102S513 72 568 72" stroke="#FFC6AA"/>
   </g>
-  <g fill="none" stroke-width="3.5" stroke-linecap="round">
-    <path d="M552 148H605C644 148 658 107 692 107S741 148 779 148H826" stroke="#C8AFFB"/>
-    <path d="M552 148H605C644 148 658 189 692 189S741 148 779 148H826" stroke="#FFC6AA"/>
-    <path d="M552 148H605M779 148H826" stroke="url(#signal)"/>
-  </g>
-  <circle cx="552" cy="148" r="5" fill="#C8AFFB"/>
-  <circle cx="826" cy="148" r="5" fill="#FFC6AA"/>
+  <circle cx="64" cy="72" r="4" fill="#C8AFFB"/>
+  <circle cx="816" cy="72" r="4" fill="#FFC6AA"/>
 </svg>
